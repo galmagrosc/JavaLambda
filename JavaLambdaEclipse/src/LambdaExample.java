@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 public class LambdaExample {
 	/**
 	* Change from GIT
+	* 2º Change from Eclipse
 	*/
 	private List<Map<String, Object>>  getObras() {
 		//Mat1
