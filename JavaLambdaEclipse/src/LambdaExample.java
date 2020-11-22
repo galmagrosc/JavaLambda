@@ -4,7 +4,9 @@ import java.util.stream.Collectors;
 
 
 public class LambdaExample {
-
+	/**
+	* Change from GIT
+	*/
 	private List<Map<String, Object>>  getObras() {
 		//Mat1
 		Map<String, Object> mat1 = new HashMap<>();
