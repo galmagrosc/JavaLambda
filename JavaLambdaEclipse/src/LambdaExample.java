@@ -10,6 +10,7 @@ public class LambdaExample {
 	* 3º change from eclipse: newBranchEclipse1
 	* 5º change in newBranchEclipse1
 	* 8º change from eclipse to test merging
+	* 7º change from GitHub to test merging
 	*/
 	private List<Map<String, Object>>  getObras() {
 		//Mat1
